@@ -1,0 +1,3 @@
+zeroconf==0.39.4
+colorama==0.4.4
+mac-vendor-lookup==1.0.11
