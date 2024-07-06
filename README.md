@@ -1,15 +1,7 @@
-# Awesome Code Template
+# Service Finder
+A program that monitors the network for DNS-sd packets, prints the service, and then finds the IP and the name (in various ways).
 
-This repository is a template with basic elements that every repository at Stratosphere should follow.
+# Usage
+`pip install -r requirements.txt`
 
-## Features
-
-Write about what makes your [tool|code|data|repo] special.
-
-## Usage
-
-Write about how others can use your [tool|code|data|repo].
-
-# About
-
-This [tool|code|data|repo] was developed at the Stratosphere Laboratory at the Czech Technical University in Prague.
+`python service-finder.py`
